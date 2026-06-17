@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI Specialist & Full Stack Developer</strong><br/>
-  R&D Junior Engineer · Children Coding Teacher · Founder di CertiMed
+  Software Engineer · AI and Coding Teacher 
 </p>
 
 <p align="center">
