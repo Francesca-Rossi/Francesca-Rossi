@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI Specialist & Full Stack Developer</strong><br/>
-  Software Engineer · AI and Coding Teacher 
+  Full-Stack Developer - AI and Coding Teacher 
 </p>
 
 <p align="center">
