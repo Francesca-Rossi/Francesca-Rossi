@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://francesca-rossi-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:francesca@example.com">✉️ Contatti</a>
+  <a href="mailto:ceschina99@gmail.com">✉️ Contatti</a>
 </p>
 
 ---
@@ -18,7 +18,6 @@ Sono una sviluppatrice con base a Parma, appassionata di AI, SaaS e coding educa
 
 - 🔬 R&D Junior Engineer @ **REQURV S.R.L.** — full-stack su FastAPI, Vue 3/Nuxt, Prisma, PostgreSQL
 - 👩‍🏫 Insegno coding ai bambini @ **Coding Giants**
-- 🚀 Sto costruendo **CertiMed** — SaaS di compliance documentale per studi medici italiani
 - 🎤 Speaker dal 2021 su tech, AI e sviluppo software
 
 ---
@@ -35,6 +34,10 @@ Sono una sviluppatrice con base a Parma, appassionata di AI, SaaS e coding educa
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  
 </p>
 
 ---
@@ -64,7 +67,7 @@ Web app PHP per la gestione di liste regalo condivise.
 Sono disponibile come **freelance** per progetti di sviluppo web, applicazioni AI e consulenza tech.
 Se hai un'idea in testa o un problema da risolvere, parliamone — il primo caffè è offerto.
 
-> 💌 **[Scrivimi](mailto:francesca@example.com)** — rispondo sempre.
+> 💌 **[Scrivimi](mailto:ceschina99@gmail.com)** ti risponderò al più presto.
 
 ---
 
